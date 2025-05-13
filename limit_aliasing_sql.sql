@@ -1,4 +1,4 @@
-#LIMIT
+#LIMITING
 
 SELECT * 
 FROM employeedemographics
